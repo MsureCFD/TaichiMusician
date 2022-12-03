@@ -12,6 +12,7 @@
  
  ## Installation
  pip install taichi
+ 
  pip install pygame
  
   ## Usage
